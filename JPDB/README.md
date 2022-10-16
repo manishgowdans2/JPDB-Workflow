@@ -43,6 +43,15 @@
 
 ![REMOVE](https://github.com/manishgowdans2/JPDB-Internship/blob/main/JPDB/Assets/REMOVE.png)
 
+
+# Uses of Database:
+
+Databases are used for storing, maintaining and accessing any sort of data.<br />
+Like:<br />
+-Storing Employee Details<br />
+-Storing Students Information<br />
+-Security reasons, etc<br />
+
 ### Thank You!
 
 
