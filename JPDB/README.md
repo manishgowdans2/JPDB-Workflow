@@ -19,7 +19,7 @@
 
 ### Screenshots Of WebPage:
 
-![Dashboard](https://github.com/BeAgarwal/JsonPowerDB/blob/master/Assets/HTMLForm.jpg")
+![Dashboard](https://github.com/BeAgarwal/JsonPowerDB/blob/master/Assets/HTMLForm.png)
 
 ### Screenshots Of Database:
 
