@@ -25,5 +25,26 @@
 
 ![Database](https://github.com/manishgowdans2/JPDB-Internship/blob/main/JPDB/Assets/Database.png)
 
+# Some of the example applications are:
+
+### PUT Method
+
+![PUT](https://github.com/manishgowdans2/JPDB-Internship/blob/main/JPDB/Assets/PUT.png)
+
+### GET Method
+
+![GET](https://github.com/manishgowdans2/JPDB-Internship/blob/main/JPDB/Assets/GET.png)
+
+### UPDATE Method
+
+![UPDATE](https://github.com/manishgowdans2/JPDB-Internship/blob/main/JPDB/Assets/UPDATE.png)
+
+### REMOVE Method
+
+![REMOVE](https://github.com/manishgowdans2/JPDB-Internship/blob/main/JPDB/Assets/REMOVE.png)
+
+### Thank You!
+
+
 
 
