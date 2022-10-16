@@ -17,13 +17,13 @@
 - It is low level (raw) form of data and is also human readable.
 - It helps developers in faster coding, in-turn reduces development cost.
 
-### Screenshots Of WebPage:
+### Screenshot Of WebPage:
 
-![Dashboard](https://github.com/BeAgarwal/JsonPowerDB/blob/master/Assets/HTMLForm.png)
+![HTMLForm](https://github.com/manishgowdans2/JPDB-Internship/blob/main/JPDB/Assets/HTMLForm.png)
 
-### Screenshots Of Database:
+### Screenshot Of Database:
 
-![Index Page](https://github.com/BeAgarwal/JsonPowerDB/blob/master/Assets/Database.jpg")
+![Database](https://github.com/manishgowdans2/JPDB-Internship/blob/main/JPDB/Assets/Database.png)
 
 
 
