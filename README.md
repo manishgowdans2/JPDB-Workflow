@@ -1,5 +1,5 @@
 # JsonPowerDB 
-### You can fork it. But before that, please give a star (It's totally free).
+### A powerful database for all to work on and easily manage their requirements.
 
 [Documentation Link](http://login2explore.com/jpdb/docs.html)
 
